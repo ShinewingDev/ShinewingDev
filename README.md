@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ShinewingDev/ShinewingDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Shinewing Digital.
+</p>
+<p align='center'>For enquiries, reach out digital@shinewing.com or over on <a href="https://github.com/sw-digital">Shinewing Digital</a>.</p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
